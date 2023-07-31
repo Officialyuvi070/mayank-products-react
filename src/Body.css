@@ -1,0 +1,54 @@
+
+.lists li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.div1 .lists li .savage{
+    margin-left : 140rem;
+}
+
+.lists li .demo-img {
+    width : 60px;
+    height : 60px;
+    border-radius: 50%;
+    margin-top : 10rem;
+    margin-left : -230px;
+    object-fit: cover;
+}
+.lists li img {
+    width: 250px;
+    /* Set the desired width for the image */
+    height: 250px;
+    /* Maintain aspect ratio */
+    /* margin-right: 20px; */
+    margin-left : 20rem;
+    object-fit: cover;
+}
+
+.div1 .lists li svg {
+    margin-left: 4rem;
+    margin-top: 5rem;
+}
+
+.lists li h6 {
+    margin-top: 7rem;
+    margin-left: -18px;
+}
+
+.lists li .hi {
+    font-size: 48px;
+    color: blueviolet;
+}
+
+.lists li .something h3 {
+    color: blueviolet;
+}
+
+.lists li .something {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    margin-left: 6rem;
+}
